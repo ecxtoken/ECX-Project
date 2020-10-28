@@ -3,20 +3,20 @@
 ECX Token is an ERC20 Token running on Ethereum Blockchain and serves enterprises for their business development projects. By leveraging on Ethereum blockchain technology, we are building a smart economy, enabling cryptocurrencies to be widely used in real business projects and making real assets tradable in crypto.
 
 # Official Links
-Website: www.ecxtoken.io
-Facebook: https://www.facebook.com/ecxtoken/
-Twitter: https://twitter.com/ecxtoken
-Youtube: https://www.youtube.com/channel/UCpWsSXz-3vKS6VczXT8j2Aw
-Bitcointalk: https://bitcointalk.org/index.php?topic=4572726
-Telegram: https://t.me/ecxtoken
+- Website: www.ecxtoken.io
+- Facebook: https://www.facebook.com/ecxtoken/
+- Twitter: https://twitter.com/ecxtoken
+- Youtube: https://www.youtube.com/channel/UCpWsSXz-3vKS6VczXT8j2Aw
+- Bitcointalk: https://bitcointalk.org/index.php?topic=4572726
+- Telegram: https://t.me/ecxtoken
 
 Whitepaper
-www.ecxtoken.io/whitepaper
+- www.ecxtoken.io/whitepaper
 
 
 Wallet Downloads:
 1. Paper Wallet: https://www.myetherwallet.com/
-2. Mobile Wallet (ERC20 token supported): https://token.im/  or  https://enjinwallet.io/
+2. Mobile Wallet (ERC20 token supported): https://token.im/ 
 
 
 Exchange:
